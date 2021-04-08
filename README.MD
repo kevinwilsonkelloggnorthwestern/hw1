@@ -1,0 +1,1 @@
+<!-- The index is the homepage of the website and allows you to browse various food categories. All food categories are linked back to the index, but not linked together.  -->
